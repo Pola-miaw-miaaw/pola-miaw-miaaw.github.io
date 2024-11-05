@@ -1,0 +1,29 @@
+p{
+
+color:rgb(47, 130, 255);
+font-size: large;
+}
+body{color:rgb(253, 95, 227);
+background-color:rgb(253, 213, 218);
+}
+img{
+width: 100px
+bolder: 5px;
+
+}
+
+div{
+
+max-width: 1000px;
+margin: auto;
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 900
+
+playfair-display-<uniquifier> {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
